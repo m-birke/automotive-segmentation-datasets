@@ -10,7 +10,7 @@ List of datsets with image segmentation labels. For more detailed information on
 | Synthia Sequences       |  31.927‬          | x         | RGB, grayscale | Synthetic | CC BY-NC-SA 3.0 | [link](https://synthia-dataset.net/) |
 | Synthia Rand            | 13,407           |           | RGB            | Synthetic | CC BY-NC-SA 3.0 | [link](https://synthia-dataset.net/) | 
 | Synthia Rand Cityscapes | 9,400            | x         | RGB, grayscale | Synthetic | CC BY-NC-SA 3.0 | [link](https://synthia-dataset.net/) |
-| Playing for Data        | 25,000           |           | RGB            | Synthetic | | [link](https://download.visinf.tu-darmstadt.de/data/from_games/) |
+| Playing for Data        | 24,966           |           | RGB            | Synthetic | | [link](https://download.visinf.tu-darmstadt.de/data/from_games/) |
 | Kitti                   | 400              | x         | RGB, grayscale | Real      | CC BY-NC-SA 3.0 | [link](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015)
 | ApolloScape             | 146,997          | x***      | RGB            | Real      | [license](http://apolloscape.auto/license.html) | [link](http://apolloscape.auto/scene.html#) |
 | Berkeley DeepDrive      | 10,000           | x         | RGB, grayscale | Real      || [link](https://bdd-data.berkeley.edu/) | 
