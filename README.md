@@ -2,10 +2,12 @@
 
 List of datsets with image segmentation labels. For more detailed information on individual datasets, see other files. _Cityscapes_, _CamVid_, _Kitti_, _Berkely DeepDrive_ and _Playing for Data_ have the same annotation guideline.
 
+![](figures/city_sample.png)
+
 |Name                     | Annotated Images | Instances | Label Type     | Domain    | License         | Web |
 |---                      |---               |---        |---             |---        |---              |---  |
 | Audi A2D2               | 41,280           | x**       | RGB            | Real      | CC BY-ND 4.0    | [link](https://www.a2d2.audi/a2d2/en.html) |
-| Cityscapes              | 3,500*           | x         | RGB, grayscale | Real      | [license](https://www.cityscapes-dataset.com/license/)       | [link](https://www.cityscapes-dataset.com/) |
+| Cityscapes              | 3,475*           | x         | RGB, grayscale | Real      | [license](https://www.cityscapes-dataset.com/license/)       | [link](https://www.cityscapes-dataset.com/) |
 | CamVid                  | 701              |           | RGB            | Real      |                 | [link](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) |
 | Synthia Sequences       |  31.927‬          | x         | RGB, grayscale | Synthetic | CC BY-NC-SA 3.0 | [link](https://synthia-dataset.net/) |
 | Synthia Rand            | 13,407           |           | RGB            | Synthetic | CC BY-NC-SA 3.0 | [link](https://synthia-dataset.net/) | 
@@ -26,12 +28,14 @@ List of datsets with image segmentation labels. For more detailed information on
 __Cityscapes__
 
 ![](figures/city_label_occ_donut_bigs.png)
-
 ![](figures/city_label_occ_donut_smalls.png)
-
 ![](figures/city_label_occ_donut_vsmalls.png)
 
 __Playing for Data__
+
+![](figures/gta_label_occ_donut_bigs.png)
+![](figures/gta_label_occ_donut_smalls.png)
+![](figures/gta_label_occ_donut_vsmalls.png)
 
 __Synthia Sequences__
 
