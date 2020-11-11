@@ -25,6 +25,12 @@ List of datsets with image segmentation labels. For more detailed information on
 
 __Cityscapes__
 
+![](figures/city_label_occ_donut_bigs.png)
+
+![](figures/city_label_occ_donut_smalls.png)
+
+![](figures/city_label_occ_donut_vsmalls.png)
+
 __Playing for Data__
 
 __Synthia Sequences__
