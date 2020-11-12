@@ -39,6 +39,11 @@ __Playing for Data__
 
 __Synthia Sequences__
 
+![](figures/synthia_sequences_label_occ_donut.png)
+
 __Synthia Rand Cityscapes__
+
+![](figures/synthia_rand_city_label_occ_donut_bigs.png)
+![](figures/synthia_rand_city_label_occ_donut_smalls.png)
 
 __Synthia Rand__
