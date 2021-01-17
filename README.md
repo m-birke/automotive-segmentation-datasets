@@ -3,6 +3,7 @@
 List of datsets with image segmentation labels. For more detailed information on individual datasets, see other files. _Cityscapes_, _CamVid_, _Kitti_, _Berkely DeepDrive_ and _Playing for Data_ have the same annotation guideline.
 
 ![](figures/city_sample.png)
+Segmentation image taken from the [Cityscapes dataset](https://www.cityscapes-dataset.com/).
 
 |Name                     | Annotated Images | Instances | Label Type     | Domain    | License         | Web |
 |---                      |---               |---        |---             |---        |---              |---  |
